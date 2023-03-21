@@ -1,0 +1,154 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: rgb(248, 195, 195);
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+    margin-top: 2%;
+    margin-left: 10px;
+}
+
+h1:hover {
+    background-position: left bottom;
+    color: rgb(145, 123, 95);
+    border: none;
+    box-shadow: 0 0 20px rgb(65, 209, 73);
+}
+
+h2:hover {
+    background-position: left bottom;
+    color: rgb(65, 36, 36);
+    border: none;
+    box-shadow: 0 0 20px rgb(134, 235, 68);
+}
+
+h2 {
+    color: rgb(9, 13, 63);
+    margin-top: 5%;
+    margin-left: 10px;
+}
+
+#a1 {
+    background-color: rgb(104, 147, 167);
+    border: 5px solid rgba(107, 95, 141, 0.801);
+    margin-left: 27%;
+    border-collapse: collapse;
+    color: rgb(33, 33, 34);
+    font-family: arial, sans-serif;
+    margin-top: 5%;
+    height: 700px;
+    width: 700px;
+}
+
+#a1:hover {
+    background-position: left bottom;
+    color: rgb(10, 9, 9);
+    border: none;
+    box-shadow: 0 0 20px rgb(236, 99, 35);
+}
+
+#a2:hover {
+    background-position: left bottom;
+    color: rgb(10, 9, 9);
+    border: none;
+    box-shadow: 0 0 20px rgb(20, 245, 151);
+}
+
+#a3:hover {
+    background-position: left bottom;
+    color: rgb(10, 9, 9);
+    border: none;
+    box-shadow: 0 0 20px rgb(174, 20, 245);
+}
+
+#a4:hover {
+    background-position: left bottom;
+    color: rgb(10, 9, 9);
+    border: none;
+    box-shadow: 0 0 20px rgb(240, 201, 30);
+}
+
+th :nth-child(odd) {
+    background-color: rgb(82, 129, 175);
+    color: white;
+    text-align: left;
+    padding: 8px;
+    border-bottom: 3px solid rgb(40, 100, 161);
+}
+
+th :nth-child(even) {
+    background-color: rgb(236, 234, 108);
+    color: white;
+    text-align: left;
+    padding: 8px;
+    border-bottom: 3px solid rgb(40, 100, 161);
+}
+
+tr td:nth-child(odd) {
+    background-color: rgb(157, 226, 203);
+}
+
+tr td:nth-child(even) {
+    background-color: rgb(214, 218, 230);
+}
+
+#a2 {
+    background-color: rgb(104, 147, 167);
+    border: 5px solid rgba(107, 95, 141, 0.801);
+    margin-left: 36%;
+    border-collapse: collapse;
+    color: rgb(33, 33, 34);
+    font-family: arial, sans-serif;
+    margin-top: 5%;
+    height: 400px;
+    width: 400px;
+}
+
+#a3 {
+    background-color: rgb(104, 147, 167);
+    border: 5px solid rgba(107, 95, 141, 0.801);
+    margin-left: 36%;
+    border-collapse: collapse;
+    color: rgb(33, 33, 34);
+    font-family: arial, sans-serif;
+    margin-top: 5%;
+    height: 400px;
+    width: 400px;
+}
+
+#a4 {
+    background-color: rgb(104, 147, 167);
+    border: 5px solid rgba(107, 95, 141, 0.801);
+    margin-left: 36%;
+    border-collapse: collapse;
+    color: rgb(33, 33, 34);
+    font-family: arial, sans-serif;
+    margin-top: 5%;
+    height: 400px;
+    width: 400px;
+}
+
+#a5 {
+    background-color: rgb(104, 147, 167);
+    border: 5px solid rgba(107, 95, 141, 0.801);
+    margin-left: 36%;
+    border-collapse: collapse;
+    color: rgb(33, 33, 34);
+    font-family: arial, sans-serif;
+    margin-top: 5%;
+    height: 400px;
+    width: 400px;
+}
+
+#a5:hover {
+    background-position: left bottom;
+    color: rgb(10, 9, 9);
+    border: none;
+    box-shadow: 0 0 20px rgb(168, 33, 33);
+}
